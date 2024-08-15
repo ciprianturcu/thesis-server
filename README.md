@@ -32,7 +32,7 @@ Python (3.10) with pip for package installation
 
 #### Generate comment for code
 
-```http
+```text
   POST /getComment
 ```
 
